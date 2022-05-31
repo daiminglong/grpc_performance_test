@@ -1,4 +1,4 @@
-.DEFAULT_GOAL := build-all
+.DEFAULT_GOAL := all
 
 export GO15VENDOREXPERIMENT=1
 
